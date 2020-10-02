@@ -1,0 +1,25 @@
+What is the most popular mobile OS in the world ?
+iOS
+Android
+Windows Phone
+
+What programming language we use to develop Android apps ?
+Python
+JavaScript
+Java
+
+What is the official IDE for Android development ?
+Android IDE
+Android Studio
+Eclipse
+
+What is the name of the company that develop Android platform ?
+Facebook
+Udacity
+Google
+
+What is the latest version of Android ?
+Pie
+10
+Oreo
+
